@@ -1,0 +1,117 @@
+ <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <title>Women in Tech in Nigeria</title>
+            <link rel="stylesheet" href="styles.css">
+        </head>
+        <body>
+            <!--this is a form about women in tech in Nigeria-->
+            <section>
+                <marquee behavior="slide" direction="left to right">WOMEN IN TECH IN NIGERIA&#128151 WOMEN IN TECH IN NIGERIA &#128151 WOMEN IN TECH IN NIGERIA&#128151 WOMEN IN TECH IN NIGERIA &#128151 </marquee>
+            <h1>Women in Tech in Nigeria</h1>
+            <div class="dropdown"
+            <button>Profile</button>
+            <div class="drop down-options">
+            <a href="#">Dashboard</a>
+            <a href="#">Setting</a>
+            <a href="#">logout</a>
+            </div>
+            </div>
+            <img src="https://africanwomeninmedia.com/wp-content/uploads/2020/04/NWiT-840x777.png">
+            <p>
+                According to data pooled by the UNESCO Institute for Statistics (UIS)’s Women In Science interactive  tool, only less than 30% of women are researchers in the field of science globally. While it is difficult to quantify the percentage of women in STEM field globally due to a variety of reasons, such as the difference in the definition of terminologies across countries etc, the UIS is developing new indicators to better understand the dynamics that shape women’s decisions to seek a career in STEM-related fields, showing the extent to which family decisions, financial considerations, workplace culture and discrimination can shape women’s career choices and progression in these areas.
+            </p>
+            <p>Hence the reason for this form/survey. This survey aims to collect data about women in Tech who may not have been involved in the last survey.</p>
+            </section>
+            <form>
+                <div>
+                    <h5>Personal details</h5>
+                    <label for="First Name">First name</label>
+                    <input type="text">
+                    </div>
+                    <div>
+                        <label for="Last name">Last name</label>
+                        <input type="text">
+                    </div>
+                    <div>
+                        <label for="Email Address">Email Address</label>
+                        <input type="email">
+                    </div>
+                    <div>
+                        <label for="Date of Birth">Date of Birth</label>
+                        <input type="date">
+                        </div>
+                        <div>
+                        <label for="Age">Age</label>
+                        <input type="number">
+            
+                        </div>
+                        <div>
+                            <h5>Interests</h5>
+                            <label for="Interests">Interests:</label>
+                            <input type="checkbox">Frontend
+                            <button type="checkbox" disabled>&#128516</button>
+                            <input type="checkbox">Backend
+                            <input type="checkbox">FullStack
+                            <input type="checkbox">Artificial intelligence
+                            <input type="checkbox">Machine Learning
+                            <input type="checkbox">Mobile Development
+                            <input type="checkbox">Scrum
+                            </div>
+                            <div>
+                            <h5>Programming Language Proficiency</h5>
+                            <label for="Python">Python</label>
+                            <input type="radio">Beginner
+                            <input type="radio">Intermediate
+                            <input type="radio">Expert
+                            </div>
+                            
+                            <label for="Javascript">JavaScript</label>
+                            <input type="radio">Beginner
+                            <input type="radio">Intermediate
+                            <input type="radio">Expert
+                            <div>
+                            <label for="C++">C++</label>
+                            <input type="radio">Beginner
+                            <input type="radio">Intermediate                            <input type="radio">Expert
+                            </div>
+                            <div>
+                            <label for="SQL">SQL</label>
+                            <input type="radio">Beginner
+                            <input type="radio">Intermediate
+                            <input type="radio">Expert
+                            </div>
+                            <div>
+                            <label for="Java">Java</label>
+                            <input type="radio">Beginner
+                            <input type="radio">Intermediate
+                            <input type="radio">Expert
+                            </div>
+                            <div>
+                                <a href="https://africaagility.org/">                                <label for="Button">Submit</label>
+                                <input type="Submit"/>
+                            </a>
+
+                            </div>
+
+
+
+
+
+                            
+
+
+                            </div>
+
+                    </div>
+
+                </div>
+
+
+            </form>
+
+        </body>
+
+        </html>
+
